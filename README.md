@@ -1,2 +1,2 @@
-# js.raj
+# js.hindi
 A code repo for JavaScript series
